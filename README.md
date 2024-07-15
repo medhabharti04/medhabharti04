@@ -2,6 +2,7 @@
 <br>
 
 🖥 Interests:
+<br>
 💫Programming Languages: 
 Exploring programming languages such as Python, C etc and database management systems such as MySQL and creating different projects to develop a deeper understanding over them
 <br>
