@@ -8,6 +8,7 @@
 <br>
 
 💗Hobbies
+<br>
 💫Reading: I enjoy immersing myself in books, whether they're self-help, crime fiction, or thought-provoking literature.
 <br>
 💫Fitness:I love going to the gym and exploring easier ways to maintain fitness while balancing work. It calms me and helps me stay focused.
@@ -16,6 +17,7 @@
 <br>
 
 📞Contact
+<br>
 Feel free to reach out to me for collaborations, discussions, or just a friendly chat about technology,books and fitness.
 <br>
 https://www.linkedin.com/in/medha-bharti-b87a75153?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
