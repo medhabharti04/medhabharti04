@@ -3,7 +3,7 @@
 
 🖥
 💫Programming Languages: 
-Exploring new and existing programming languages, understanding their paradigms, and seeing how they evolve over time
+Exploring programming languages such as Python, C etc and database management systems such as MySQL and creating different projects to develop a deeper understanding over them
 <br>
 💫Emerging Technologies: 
 Keeping an eye on the latest trends and innovations in technology, from AI and machine learning to blockchain and beyond.
