@@ -1,7 +1,7 @@
 👋Hello! I'm Medha Bharti, a passionate explorer of programming languages and emerging technologies. I love diving deep into the intricacies of code and staying up-to-date with the latest advancements in the tech world.
 <br>
 
-🖥
+🖥 Interests:
 💫Programming Languages: 
 Exploring programming languages such as Python, C etc and database management systems such as MySQL and creating different projects to develop a deeper understanding over them
 <br>
