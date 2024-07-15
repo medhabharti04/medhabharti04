@@ -2,21 +2,26 @@
 <br>
 
 🖥
-💫Programming Languages: Exploring new and existing programming languages, understanding their paradigms, and seeing how they evolve over time
+💫Programming Languages: 
+Exploring new and existing programming languages, understanding their paradigms, and seeing how they evolve over time
 <br>
-💫Emerging Technologies:Keeping an eye on the latest trends and innovations in technology, from AI and machine learning to blockchain and beyond.
+💫Emerging Technologies: 
+Keeping an eye on the latest trends and innovations in technology, from AI and machine learning to blockchain and beyond.
 <br>
 
 💗Hobbies
 <br>
-💫Reading: I enjoy immersing myself in books, whether they're self-help, crime fiction, or thought-provoking literature.
+💫Reading:
+I enjoy immersing myself in books, whether they're self-help, crime fiction, or thought-provoking literature.
 <br>
-💫Fitness:I love going to the gym and exploring easier ways to maintain fitness while balancing work. It calms me and helps me stay focused.
+💫Fitness:
+I love going to the gym and exploring easier ways to maintain fitness while balancing work. It calms me and helps me stay focused.
 <br>
-💫Writing: I also enjoy self reflective writing, and creative writing
+💫Writing:
+I also enjoy self reflective writing, and creative writing
 <br>
 
-📞Contact
+📞Contact:
 <br>
 Feel free to reach out to me for collaborations, discussions, or just a friendly chat about technology,books and fitness.
 <br>
